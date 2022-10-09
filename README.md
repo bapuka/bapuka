@@ -3,7 +3,7 @@
   * devops engineering
   * cloud architecture 
   * container and cloud native technology
-  * automation development
+  * process automation development
   * web3 development
 ### 🌱 I’m currently learning 
   * svelte
