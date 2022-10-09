@@ -1,15 +1,15 @@
-👋 Hi, I’m @bapuka, researcher and devops engineer at Omnitech LLC.
-👀 I’m interested in 
+### 👋 Hi, I’m @bapuka, researcher and devops engineer at Omnitech LLC.
+### 👀 I’m interested in 
   * devops engineering
   * cloud architecture 
   * container and cloud native technology
   * automation development
   * web3 development
-🌱 I’m currently learning 
+### 🌱 I’m currently learning 
   * svelte
-💞️ I’m looking to collaborate on 
+### 💞️ I’m looking to collaborate on 
   * :D
-📫 How to reach me
+### 📫 How to reach me
   * LinkedIn: https://www.linkedin.com/in/bapuka-boba-ba377323
   * Github: https://github.com/bapuka
   * Gmail: bapuka@gmail.com
