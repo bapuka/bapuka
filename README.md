@@ -1,12 +1,12 @@
-### 👋 Hi, I’m @bapuka, researcher and devops engineer at Omnitech LLC.
+### 👋 Hi, I’m @bapuka, researcher and devops engineer at DeepTech LLC.
 ### 👀 I’m interested in 
   * devops engineering
   * cloud architecture 
   * container and cloud native technology
   * process automation development
-  * web3 development
+    
 ### 🌱 I’m currently learning 
-  * svelte
+  * MCP
 ### 💞️ I’m looking to collaborate on 
   * :D
 ### 📫 How to reach me
